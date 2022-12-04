@@ -1,4 +1,5 @@
 {
+  "plugins": ["prettier-plugin-foo"],
   "arrowParens": "avoid",
   "printWidth": 100,
   "semi": false,
