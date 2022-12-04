@@ -1,0 +1,10 @@
+.SelectContent {
+  background-color: blue;
+}
+
+.SelectItem {
+  padding: 0 35px 0 25px;
+}
+.SelectItem[data-state="checked"] {
+  background-color: blanchedalmond;
+}

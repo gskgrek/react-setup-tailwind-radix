@@ -20,6 +20,8 @@
         "react"
     ],
     "rules": {
-        "@typescript-eslint/semi": ["error", "never"]
+        "@typescript-eslint/semi": ["error", "never"],
+        "react/jsx-props-no-spreading": "off",
+        "react/prop-types": "off"
     }
 }
